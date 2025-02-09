@@ -21,7 +21,7 @@ t = 1./240.
 z = start_position[2]
 e = 0.8
 
-for i in range (100000):
+for i in range (10000):
 
     if (z >= 0):
         start_position = [0, 0, z]
